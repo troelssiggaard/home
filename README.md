@@ -1,3 +1,3 @@
 # home
 
-a [Sails](http://sailsjs.org) application
+Home a [Sails](http://sailsjs.org) application for my home :)
